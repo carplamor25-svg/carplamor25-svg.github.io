@@ -1,2 +1,3 @@
-# carplamor25-svg.github.io
-Sitio GitHub Pages: Web de Carlos Plata Morán (index.html, CSS, JS y assets)
+# Web de Carlos Plata Morán
+Sitio estático (HTML, CSS y JavaScript) para GitHub Pages. Abre `index.html` o publica el repositorio.
+Formulario: edita `js/main.js` y rellena TEMPLATE_ID y PUBLIC_KEY de EmailJS.
