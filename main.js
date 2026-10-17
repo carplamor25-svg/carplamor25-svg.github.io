@@ -1,8 +1,8 @@
 // ====== CONFIGURACIÓN DE EMAILJS (rellena las dos líneas marcadas) ======
 const EMAILJS = {
   SERVICE_ID: "service_l8oo19f",          // ya es el tuyo (servicio Gmail)
-  TEMPLATE_ID: "PEGA_AQUI_TU_TEMPLATE_ID", // EmailJS > Plantillas de correo
-  PUBLIC_KEY: "PEGA_AQUI_TU_PUBLIC_KEY"    // EmailJS > Cuenta > Public Key
+  TEMPLATE_ID: "template_rtpuxqn", // EmailJS > Plantillas de correo
+  PUBLIC_KEY: "RMu90B7fyhCDheTqBpITw"    // EmailJS > Cuenta > Public Key
 };
 
 const form = document.getElementById("form");
